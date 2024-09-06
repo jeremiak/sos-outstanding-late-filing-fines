@@ -13,6 +13,8 @@ The problem with that file is that:
 
 This scraper converts the Excel file into a JSON file with a stable sort order so we can see when things change.
 
+[![Update](https://github.com/jeremiak/sos-outstanding-late-filing-fines/actions/workflows/run.yml/badge.svg)](https://github.com/jeremiak/sos-outstanding-late-filing-fines/actions/workflows/run.yml)
+
 ## Data dictionary
 
 These columns should match the `.xls` file available for download on the SoS website. Dates have been standardized to be `YYYY-MM-DD` and dollar amounts have been converted to numbers.
