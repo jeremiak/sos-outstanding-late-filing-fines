@@ -55,7 +55,7 @@ await Deno.writeTextFile('outstanding-fines.json', toWrite)
 const readme = await Deno.readTextFile('README.md')
 const updated = readme.replace(
   /\*\*Total outstanding fines\:\*\*\s\$[\d\,\.]+/,
-  `**Total outstanding fines:** $${sum.toLocaleString('en-US', { style: 'currency', currency: "USD" })}`
+  `**Total outstanding fines:** $${sum.toLocaleString('en-US', { style: 'currency', currency: "USD" })}\n`
 ).replace(
   /\_Last updated on [\d\-]+_/,
   `_Last updated on ${updatedAt}_`
