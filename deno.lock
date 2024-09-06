@@ -1,0 +1,31 @@
+{
+  "version": "3",
+  "packages": {
+    "specifiers": {
+      "npm:@jsr/jlarky__csv-parse@^0.1.2": "npm:@jsr/jlarky__csv-parse@0.1.2"
+    },
+    "npm": {
+      "@jsr/jlarky__csv-parse@0.1.2": {
+        "integrity": "sha512-uFl8CM/AcxQHGZJ92ToTg5GbCG9BpPUJDsjlmc4Oy/6vN9kSVGfsrdy7yDEAZA4DpFUcXNW36BJuMigv4nE5Kg==",
+        "dependencies": {
+          "csv-parse": "csv-parse@5.5.6"
+        }
+      },
+      "csv-parse@5.5.6": {
+        "integrity": "sha512-uNpm30m/AGSkLxxy7d9yRXpJQFrZzVWLFBkS+6ngPcZkw/5k3L/jjFuj7tVnEpRn+QgmiXr21nDlhCiUK4ij2A==",
+        "dependencies": {}
+      }
+    }
+  },
+  "remote": {
+    "https://esm.sh/lodash@4.17.21/orderBy": "4ce680b1345fcc1c9a94762b092e37cd7bd416b12afd0a8b6fd0d04ca54e7e35",
+    "https://esm.sh/v135/lodash@4.17.21/denonext/orderBy.js": "238f858959b9837ee6ee390c7d3447dec5f34123985eeede8ce4de66a7ddad1e"
+  },
+  "workspace": {
+    "packageJson": {
+      "dependencies": [
+        "npm:@jsr/jlarky__csv-parse@^0.1.2"
+      ]
+    }
+  }
+}

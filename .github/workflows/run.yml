@@ -1,0 +1,36 @@
+name: Update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 5 * *'
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v2
+      with:
+        node-version: '20'
+    - uses: denoland/setup-deno@v1
+      with:
+        deno-version: v1.x
+    - name: Install Node dependencies
+      run: npm install
+    - name: Download Excel file
+      run: curl -o outstanding-fines-list.xls https://prd.cdn.sos.ca.gov/outstanding-fines/outstanding-fines-list.xls
+    - name: Convert to CSV
+      run: npx --yes xlsx-cli outstanding-fines-list.xls > outstanding-fines-list.csv
+    - name: Run script
+      run: deno run --allow-read=. --allow-write=outstanding-fines.json,README.md clean.ts
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git pull
+        git add *.json README.md
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
