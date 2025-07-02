@@ -650,28 +650,6 @@
       "Current Balance": 60
     },
     {
-      "SOS Assigned Filer ID Number": "1447967",
-      "Filer Name": "AGRAZ FOR STATE SENATE 2022; CLAUDIA",
-      "Responsible Officer": "DAVID HERNANDEZ",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2022-07-01",
-      "Form Period Ending Date": "2022-09-24",
-      "Beginning Balance": 6780,
-      "Current Balance": 6780
-    },
-    {
-      "SOS Assigned Filer ID Number": "1447967",
-      "Filer Name": "AGRAZ FOR STATE SENATE 2022; CLAUDIA",
-      "Responsible Officer": "DAVID HERNANDEZ",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2022-09-25",
-      "Form Period Ending Date": "2022-10-22",
-      "Beginning Balance": 760,
-      "Current Balance": 760
-    },
-    {
       "SOS Assigned Filer ID Number": "1242606",
       "Filer Name": "AIR CONDITIONING SHEET METAL ASSOCIATION",
       "Responsible Officer": "CHIP MARTIN",
@@ -1376,6 +1354,17 @@
       "Current Balance": 90
     },
     {
+      "SOS Assigned Filer ID Number": "1448586",
+      "Filer Name": "AMANDA TONSGAARD",
+      "Responsible Officer": "",
+      "Filer Type": "LOBBYIST",
+      "Form Number": "F615",
+      "Form Period Beginning Date": "2023-04-01",
+      "Form Period Ending Date": "2023-06-30",
+      "Beginning Balance": 100,
+      "Current Balance": 100
+    },
+    {
       "SOS Assigned Filer ID Number": "1344499",
       "Filer Name": "AMAZON.COM SERVICES LLC",
       "Responsible Officer": "ANDREA FAVA",
@@ -1772,39 +1761,6 @@
       "Current Balance": 100
     },
     {
-      "SOS Assigned Filer ID Number": "1460160",
-      "Filer Name": "AMERICANS FOR PATIENT ACCESS",
-      "Responsible Officer": "LEIGH MALTBY",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2023-07-01",
-      "Form Period Ending Date": "2023-09-30",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
-      "SOS Assigned Filer ID Number": "1460160",
-      "Filer Name": "AMERICANS FOR PATIENT ACCESS",
-      "Responsible Officer": "LEIGH MALTBY",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2023-10-01",
-      "Form Period Ending Date": "2023-12-31",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
-      "SOS Assigned Filer ID Number": "1460160",
-      "Filer Name": "AMERICANS FOR PATIENT ACCESS",
-      "Responsible Officer": "LEIGH MALTBY",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-03-31",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
       "SOS Assigned Filer ID Number": "1397672",
       "Filer Name": "AMERICANS FOR SAFE NEIGHBORHOODS",
       "Responsible Officer": "CANDICE PRESSLEY",
@@ -2168,17 +2124,6 @@
       "Current Balance": 100
     },
     {
-      "SOS Assigned Filer ID Number": "1384040",
-      "Filer Name": "ANDREW DABINETT",
-      "Responsible Officer": "",
-      "Filer Type": "LOBBYIST",
-      "Form Number": "F615",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-03-31",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
       "SOS Assigned Filer ID Number": "1338557",
       "Filer Name": "ANDREW H D HAHN",
       "Responsible Officer": "",
@@ -2518,17 +2463,6 @@
       "Form Period Ending Date": "2018-10-04",
       "Beginning Balance": 20,
       "Current Balance": 20
-    },
-    {
-      "SOS Assigned Filer ID Number": "1459261",
-      "Filer Name": "ARA ADVISERS LLC",
-      "Responsible Officer": "KARTHIK NARASIMHAN",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2024-04-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 80,
-      "Current Balance": 80
     },
     {
       "SOS Assigned Filer ID Number": "E24510",
@@ -3400,17 +3334,6 @@
       "Current Balance": 770
     },
     {
-      "SOS Assigned Filer ID Number": "1464899",
-      "Filer Name": "BABER 2024 FOR STATE ASSEMBLY DISTRICT 38; DEB",
-      "Responsible Officer": "DEBORAH BABER",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2024-01-26",
-      "Form Period Ending Date": "2024-02-17",
-      "Beginning Balance": 1620,
-      "Current Balance": 810
-    },
-    {
       "SOS Assigned Filer ID Number": "1465084",
       "Filer Name": "BAGHERI FOR STATE ASSEMBLY DISTRICT 51 2024; SHIVA",
       "Responsible Officer": "DAVID HERNANDEZ",
@@ -3838,6 +3761,61 @@
       "Form Period Ending Date": "2018-01-30",
       "Beginning Balance": 1800,
       "Current Balance": 1800
+    },
+    {
+      "SOS Assigned Filer ID Number": "1438335",
+      "Filer Name": "BERKELEY COUNCIL OF CLASSIFIED EMPLOYEES AFT LOCAL 6192 COPE",
+      "Responsible Officer": "STEPHANIE LINNER",
+      "Filer Type": "RECIPIENT COMMITTEE",
+      "Form Number": "F460",
+      "Form Period Beginning Date": "2016-01-01",
+      "Form Period Ending Date": "2016-06-30",
+      "Beginning Balance": 2511,
+      "Current Balance": 1255
+    },
+    {
+      "SOS Assigned Filer ID Number": "1438335",
+      "Filer Name": "BERKELEY COUNCIL OF CLASSIFIED EMPLOYEES AFT LOCAL 6192 COPE",
+      "Responsible Officer": "STEPHANIE LINNER",
+      "Filer Type": "RECIPIENT COMMITTEE",
+      "Form Number": "F460",
+      "Form Period Beginning Date": "2016-07-01",
+      "Form Period Ending Date": "2016-12-31",
+      "Beginning Balance": 3167,
+      "Current Balance": 1583
+    },
+    {
+      "SOS Assigned Filer ID Number": "1438335",
+      "Filer Name": "BERKELEY COUNCIL OF CLASSIFIED EMPLOYEES AFT LOCAL 6192 COPE",
+      "Responsible Officer": "STEPHANIE LINNER",
+      "Filer Type": "RECIPIENT COMMITTEE",
+      "Form Number": "F460",
+      "Form Period Beginning Date": "2017-01-01",
+      "Form Period Ending Date": "2017-06-30",
+      "Beginning Balance": 3275,
+      "Current Balance": 1637
+    },
+    {
+      "SOS Assigned Filer ID Number": "1438335",
+      "Filer Name": "BERKELEY COUNCIL OF CLASSIFIED EMPLOYEES AFT LOCAL 6192 COPE",
+      "Responsible Officer": "STEPHANIE LINNER",
+      "Filer Type": "RECIPIENT COMMITTEE",
+      "Form Number": "F460",
+      "Form Period Beginning Date": "2019-07-01",
+      "Form Period Ending Date": "2019-12-31",
+      "Beginning Balance": 3689,
+      "Current Balance": 3689
+    },
+    {
+      "SOS Assigned Filer ID Number": "1438335",
+      "Filer Name": "BERKELEY COUNCIL OF CLASSIFIED EMPLOYEES AFT LOCAL 6192 COPE",
+      "Responsible Officer": "STEPHANIE LINNER",
+      "Filer Type": "RECIPIENT COMMITTEE",
+      "Form Number": "F460",
+      "Form Period Beginning Date": "2020-07-01",
+      "Form Period Ending Date": "2020-12-31",
+      "Beginning Balance": 1000,
+      "Current Balance": 500
     },
     {
       "SOS Assigned Filer ID Number": "1438335",
@@ -4500,17 +4478,6 @@
       "Current Balance": 60
     },
     {
-      "SOS Assigned Filer ID Number": "1471147",
-      "Filer Name": "BRAUNINGER; SCOTT",
-      "Responsible Officer": "",
-      "Filer Type": "MAJOR DONOR/INDEPENDENT EXPENDITURE COMMITTEE",
-      "Form Number": "F461",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 20,
-      "Current Balance": 20
-    },
-    {
       "SOS Assigned Filer ID Number": "1389432",
       "Filer Name": "BREGAL INVESTMENTS  INC.",
       "Responsible Officer": "MICHELLE  RILEY",
@@ -4896,19 +4863,8 @@
       "Current Balance": 110
     },
     {
-      "SOS Assigned Filer ID Number": "1428974",
-      "Filer Name": "BROOKFIELD PROPERTIES GROUP LLC (INCLUDING AGGREGATED CONTRIBUTIONS)",
-      "Responsible Officer": "JOSH RODEN",
-      "Filer Type": "MAJOR DONOR/INDEPENDENT EXPENDITURE COMMITTEE",
-      "Form Number": "F461",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 20,
-      "Current Balance": 20
-    },
-    {
       "SOS Assigned Filer ID Number": "1437592",
-      "Filer Name": "BROOKFIELD PROPERTIES USA LLC",
+      "Filer Name": "BROOKFIELD PROPERTIES DEVELOPMENT LLC AND AFFILIATES",
       "Responsible Officer": "DONNA ESTACIO",
       "Filer Type": "CLIENT",
       "Form Number": "F635",
@@ -4919,7 +4875,7 @@
     },
     {
       "SOS Assigned Filer ID Number": "1437592",
-      "Filer Name": "BROOKFIELD PROPERTIES USA LLC",
+      "Filer Name": "BROOKFIELD PROPERTIES DEVELOPMENT LLC AND AFFILIATES",
       "Responsible Officer": "DONNA ESTACIO",
       "Filer Type": "CLIENT",
       "Form Number": "F635",
@@ -4938,17 +4894,6 @@
       "Form Period Ending Date": "2023-06-30",
       "Beginning Balance": 20,
       "Current Balance": 20
-    },
-    {
-      "SOS Assigned Filer ID Number": "1461414",
-      "Filer Name": "BROOKS STREET",
-      "Responsible Officer": "CHRIS YEILCH",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2023-10-01",
-      "Form Period Ending Date": "2023-12-31",
-      "Beginning Balance": 100,
-      "Current Balance": 100
     },
     {
       "SOS Assigned Filer ID Number": "1328141",
@@ -5092,17 +5037,6 @@
       "Form Period Ending Date": "2023-01-02",
       "Beginning Balance": 1350,
       "Current Balance": 1350
-    },
-    {
-      "SOS Assigned Filer ID Number": "1450769",
-      "Filer Name": "BUTTGENBACH  THOMAS",
-      "Responsible Officer": "",
-      "Filer Type": "MAJOR DONOR/INDEPENDENT EXPENDITURE COMMITTEE",
-      "Form Number": "F461",
-      "Form Period Beginning Date": "2023-07-01",
-      "Form Period Ending Date": "2023-12-31",
-      "Beginning Balance": 1950,
-      "Current Balance": 1950
     },
     {
       "SOS Assigned Filer ID Number": "1413734",
@@ -5455,6 +5389,28 @@
       "Form Period Ending Date": "2014-06-30",
       "Beginning Balance": 700,
       "Current Balance": 700
+    },
+    {
+      "SOS Assigned Filer ID Number": "882070",
+      "Filer Name": "CALIFORNIA ASSOCIATION OF PSYCHIATRIC TECHNICIANS PAC",
+      "Responsible Officer": "JAIME GARCIA",
+      "Filer Type": "RECIPIENT COMMITTEE",
+      "Form Number": "F460",
+      "Form Period Beginning Date": "2022-04-24",
+      "Form Period Ending Date": "2022-06-30",
+      "Beginning Balance": 20,
+      "Current Balance": 20
+    },
+    {
+      "SOS Assigned Filer ID Number": "882070",
+      "Filer Name": "CALIFORNIA ASSOCIATION OF PSYCHIATRIC TECHNICIANS PAC",
+      "Responsible Officer": "JAIME GARCIA",
+      "Filer Type": "RECIPIENT COMMITTEE",
+      "Form Number": "F460",
+      "Form Period Beginning Date": "2024-01-01",
+      "Form Period Ending Date": "2024-01-20",
+      "Beginning Balance": 220,
+      "Current Balance": 220
     },
     {
       "SOS Assigned Filer ID Number": "C25801",
@@ -5816,7 +5772,7 @@
       "Form Number": "F401",
       "Form Period Beginning Date": "2006-10-22",
       "Form Period Ending Date": "2006-12-31",
-      "Beginning Balance": 500,
+      "Beginning Balance": 410,
       "Current Balance": 250
     },
     {
@@ -5827,7 +5783,7 @@
       "Form Number": "F401",
       "Form Period Beginning Date": "2006-10-22",
       "Form Period Ending Date": "2006-12-31",
-      "Beginning Balance": 410,
+      "Beginning Balance": 500,
       "Current Balance": 250
     },
     {
@@ -5950,6 +5906,17 @@
       "Form Period Ending Date": "2021-06-30",
       "Beginning Balance": 390,
       "Current Balance": 390
+    },
+    {
+      "SOS Assigned Filer ID Number": "C26540",
+      "Filer Name": "CALIFORNIA COMPOST COALITION",
+      "Responsible Officer": "NEIL EDGAR",
+      "Filer Type": "CLIENT",
+      "Form Number": "F635",
+      "Form Period Beginning Date": "2023-07-01",
+      "Form Period Ending Date": "2023-09-30",
+      "Beginning Balance": 830,
+      "Current Balance": 830
     },
     {
       "SOS Assigned Filer ID Number": "1405945",
@@ -7140,17 +7107,6 @@
       "Current Balance": 140
     },
     {
-      "SOS Assigned Filer ID Number": "746229",
-      "Filer Name": "CALIFORNIA STATE FIREFIGHTERS ASSOCIATION PAC",
-      "Responsible Officer": "JASON FEIN",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 150,
-      "Current Balance": 150
-    },
-    {
       "SOS Assigned Filer ID Number": "C24459",
       "Filer Name": "CALIFORNIA STATE FLORAL ASSOCIATION",
       "Responsible Officer": "ANN QUINN",
@@ -8042,17 +7998,6 @@
       "Current Balance": 30
     },
     {
-      "SOS Assigned Filer ID Number": "1463410",
-      "Filer Name": "CAPITOL LINCOLN CLUB-STATE",
-      "Responsible Officer": "VONA L COPP",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2023-01-01",
-      "Form Period Ending Date": "2023-12-31",
-      "Beginning Balance": 1730,
-      "Current Balance": 1730
-    },
-    {
       "SOS Assigned Filer ID Number": "1354107",
       "Filer Name": "CAPVIS GENERAL PARTNER III LIMITED",
       "Responsible Officer": "M. A. SCRIVEN",
@@ -8062,39 +8007,6 @@
       "Form Period Ending Date": "2012-12-31",
       "Beginning Balance": 10,
       "Current Balance": 10
-    },
-    {
-      "SOS Assigned Filer ID Number": "1448254",
-      "Filer Name": "CARBONADO PARTNERS  LLC",
-      "Responsible Officer": "CARRIE PICKETT",
-      "Filer Type": "EMPLOYER",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2022-04-01",
-      "Form Period Ending Date": "2022-06-30",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
-      "SOS Assigned Filer ID Number": "1448254",
-      "Filer Name": "CARBONADO PARTNERS  LLC",
-      "Responsible Officer": "CARRIE PICKETT",
-      "Filer Type": "EMPLOYER",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2022-07-01",
-      "Form Period Ending Date": "2022-09-30",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
-      "SOS Assigned Filer ID Number": "1448254",
-      "Filer Name": "CARBONADO PARTNERS  LLC",
-      "Responsible Officer": "CARRIE PICKETT",
-      "Filer Type": "EMPLOYER",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2022-10-01",
-      "Form Period Ending Date": "2022-12-31",
-      "Beginning Balance": 100,
-      "Current Balance": 100
     },
     {
       "SOS Assigned Filer ID Number": "1282470",
@@ -8282,39 +8194,6 @@
       "Form Period Ending Date": "2004-12-31",
       "Beginning Balance": 1000,
       "Current Balance": 500
-    },
-    {
-      "SOS Assigned Filer ID Number": "1367713",
-      "Filer Name": "CARRIE PICKETT",
-      "Responsible Officer": "",
-      "Filer Type": "LOBBYIST",
-      "Form Number": "F615",
-      "Form Period Beginning Date": "2022-04-01",
-      "Form Period Ending Date": "2022-06-30",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
-      "SOS Assigned Filer ID Number": "1367713",
-      "Filer Name": "CARRIE PICKETT",
-      "Responsible Officer": "",
-      "Filer Type": "LOBBYIST",
-      "Form Number": "F615",
-      "Form Period Beginning Date": "2022-07-01",
-      "Form Period Ending Date": "2022-09-30",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
-      "SOS Assigned Filer ID Number": "1367713",
-      "Filer Name": "CARRIE PICKETT",
-      "Responsible Officer": "",
-      "Filer Type": "LOBBYIST",
-      "Form Number": "F615",
-      "Form Period Beginning Date": "2022-10-01",
-      "Form Period Ending Date": "2022-12-31",
-      "Beginning Balance": 100,
-      "Current Balance": 100
     },
     {
       "SOS Assigned Filer ID Number": "1361041",
@@ -8559,17 +8438,6 @@
       "Current Balance": 100
     },
     {
-      "SOS Assigned Filer ID Number": "1394227",
-      "Filer Name": "CBRE",
-      "Responsible Officer": "BENJAMIN J. JAMES",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2023-10-01",
-      "Form Period Ending Date": "2023-12-31",
-      "Beginning Balance": 1660,
-      "Current Balance": 1660
-    },
-    {
       "SOS Assigned Filer ID Number": "1429621",
       "Filer Name": "CD CLEAN ENERGY AND INFRASTRUCTURE V JC (HOLDCO)  LLC",
       "Responsible Officer": "JON FALTIS",
@@ -8700,17 +8568,6 @@
       "Form Period Ending Date": "2023-09-30",
       "Beginning Balance": 210,
       "Current Balance": 210
-    },
-    {
-      "SOS Assigned Filer ID Number": "1223580",
-      "Filer Name": "CENTRAL BASIN WATER ASSOCIATION",
-      "Responsible Officer": "ANTHONY C. ZAMPIELLO",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2024-04-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 60,
-      "Current Balance": 60
     },
     {
       "SOS Assigned Filer ID Number": "1280605",
@@ -10066,17 +9923,6 @@
       "Current Balance": 90
     },
     {
-      "SOS Assigned Filer ID Number": "E22075",
-      "Filer Name": "COLLEGE BOARD; THE",
-      "Responsible Officer": "MICHELLE ARNOLD",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2023-04-01",
-      "Form Period Ending Date": "2023-06-30",
-      "Beginning Balance": 3610,
-      "Current Balance": 3610
-    },
-    {
       "SOS Assigned Filer ID Number": "1461245",
       "Filer Name": "COLOR HEALTH  INC",
       "Responsible Officer": "ALYSSA CANTER",
@@ -10297,17 +10143,6 @@
       "Current Balance": 130
     },
     {
-      "SOS Assigned Filer ID Number": "1473780",
-      "Filer Name": "CONSUMER LAW EXPERTS  PC",
-      "Responsible Officer": "JESSICA ANVAR",
-      "Filer Type": "MAJOR DONOR/INDEPENDENT EXPENDITURE COMMITTEE",
-      "Form Number": "F461",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 200,
-      "Current Balance": 200
-    },
-    {
       "SOS Assigned Filer ID Number": "1423754",
       "Filer Name": "CONSUMER WATCHDOG CAMPAIGN (NONPROFIT 501(C)(4))",
       "Responsible Officer": "JAMIE COURT",
@@ -10405,17 +10240,6 @@
       "Form Period Ending Date": "2021-11-11",
       "Beginning Balance": 780,
       "Current Balance": 780
-    },
-    {
-      "SOS Assigned Filer ID Number": "1471564",
-      "Filer Name": "COOKWARE SUSTAINABILITY ALLIANCE",
-      "Responsible Officer": "STEPHEN BURNS",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2024-04-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 60,
-      "Current Balance": 60
     },
     {
       "SOS Assigned Filer ID Number": "489203",
@@ -10891,61 +10715,6 @@
       "Current Balance": 100
     },
     {
-      "SOS Assigned Filer ID Number": "1449367",
-      "Filer Name": "CST HOLDING COMPANY",
-      "Responsible Officer": "SABRA ROSENER",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2022-07-01",
-      "Form Period Ending Date": "2022-09-30",
-      "Beginning Balance": 6130,
-      "Current Balance": 6130
-    },
-    {
-      "SOS Assigned Filer ID Number": "1449367",
-      "Filer Name": "CST HOLDING COMPANY",
-      "Responsible Officer": "SABRA ROSENER",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2022-10-01",
-      "Form Period Ending Date": "2022-12-31",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
-      "SOS Assigned Filer ID Number": "1449367",
-      "Filer Name": "CST HOLDING COMPANY",
-      "Responsible Officer": "SABRA ROSENER",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2023-07-01",
-      "Form Period Ending Date": "2023-09-30",
-      "Beginning Balance": 2480,
-      "Current Balance": 2480
-    },
-    {
-      "SOS Assigned Filer ID Number": "1449367",
-      "Filer Name": "CST HOLDING COMPANY",
-      "Responsible Officer": "SABRA ROSENER",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2023-10-01",
-      "Form Period Ending Date": "2023-12-31",
-      "Beginning Balance": 1560,
-      "Current Balance": 1560
-    },
-    {
-      "SOS Assigned Filer ID Number": "1449367",
-      "Filer Name": "CST HOLDING COMPANY",
-      "Responsible Officer": "SABRA ROSENER",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-03-31",
-      "Beginning Balance": 660,
-      "Current Balance": 660
-    },
-    {
       "SOS Assigned Filer ID Number": "1327658",
       "Filer Name": "CVS HEALTH; INCLUDING AGGREGATED CONTRIBUTIONS",
       "Responsible Officer": "SHANNON BUTLER",
@@ -11276,17 +11045,6 @@
       "Current Balance": 40
     },
     {
-      "SOS Assigned Filer ID Number": "1460618",
-      "Filer Name": "DAVIS PUBLICATIONS  INC.",
-      "Responsible Officer": "JULIAN WADE",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2024-04-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
       "SOS Assigned Filer ID Number": "1253300",
       "Filer Name": "DAVIS RECALL COMMITTEE",
       "Responsible Officer": "EDWARD J. COSTA",
@@ -11615,17 +11373,6 @@
       "Form Period Ending Date": "2022-12-31",
       "Beginning Balance": 600,
       "Current Balance": 600
-    },
-    {
-      "SOS Assigned Filer ID Number": "841672",
-      "Filer Name": "DEMOCRATIC CENTRAL COMMITTEE OF SHASTA COUNTY",
-      "Responsible Officer": "SARAH CASIA",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 50,
-      "Current Balance": 50
     },
     {
       "SOS Assigned Filer ID Number": "982768",
@@ -13179,17 +12926,6 @@
       "Current Balance": 1180
     },
     {
-      "SOS Assigned Filer ID Number": "1469779",
-      "Filer Name": "ELISE G LEVINE",
-      "Responsible Officer": "",
-      "Filer Type": "LOBBYIST",
-      "Form Number": "F615",
-      "Form Period Beginning Date": "2024-04-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
       "SOS Assigned Filer ID Number": "1243337",
       "Filer Name": "ELIZABETH C. SHOLES",
       "Responsible Officer": "",
@@ -13408,17 +13144,6 @@
       "Form Period Ending Date": "2014-09-30",
       "Beginning Balance": 100,
       "Current Balance": 100
-    },
-    {
-      "SOS Assigned Filer ID Number": "1302234",
-      "Filer Name": "ERICKSON-HALL CONSTRUCTION CO.",
-      "Responsible Officer": "JESSE MANGAN",
-      "Filer Type": "MAJOR DONOR/INDEPENDENT EXPENDITURE COMMITTEE",
-      "Form Number": "F461",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 130,
-      "Current Balance": 130
     },
     {
       "SOS Assigned Filer ID Number": "1337602",
@@ -13797,7 +13522,7 @@
     {
       "SOS Assigned Filer ID Number": "1314099",
       "Filer Name": "EXPEDIA",
-      "Responsible Officer": "RICHARD LAZARO",
+      "Responsible Officer": "AMANDA PEDIGO",
       "Filer Type": "CLIENT",
       "Form Number": "F635",
       "Form Period Beginning Date": "2020-10-01",
@@ -14565,17 +14290,6 @@
       "Current Balance": 100
     },
     {
-      "SOS Assigned Filer ID Number": "L25296",
-      "Filer Name": "FRANCISCO LEAL",
-      "Responsible Officer": "",
-      "Filer Type": "LOBBYIST",
-      "Form Number": "F615",
-      "Form Period Beginning Date": "2024-04-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 60,
-      "Current Balance": 60
-    },
-    {
       "SOS Assigned Filer ID Number": "1356410",
       "Filer Name": "FRANK D. SPENO",
       "Responsible Officer": "",
@@ -14629,17 +14343,6 @@
       "Form Period Ending Date": "2023-09-30",
       "Beginning Balance": 270,
       "Current Balance": 270
-    },
-    {
-      "SOS Assigned Filer ID Number": "1430536",
-      "Filer Name": "FRIEDMAN  JARED",
-      "Responsible Officer": "",
-      "Filer Type": "MAJOR DONOR/INDEPENDENT EXPENDITURE COMMITTEE",
-      "Form Number": "F461",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 90,
-      "Current Balance": 90
     },
     {
       "SOS Assigned Filer ID Number": "1277359",
@@ -15126,6 +14829,17 @@
       "Current Balance": 450
     },
     {
+      "SOS Assigned Filer ID Number": "850209",
+      "Filer Name": "GENOVESE  COMMITTEE TO ELECT SAL",
+      "Responsible Officer": "SAL GENOVESE",
+      "Filer Type": "RECIPIENT COMMITTEE",
+      "Form Number": "F460",
+      "Form Period Beginning Date": "2023-01-01",
+      "Form Period Ending Date": "2023-06-30",
+      "Beginning Balance": 100,
+      "Current Balance": 100
+    },
+    {
       "SOS Assigned Filer ID Number": "1397082",
       "Filer Name": "GERACI FOR ASSEMBLY 2018; ALAN",
       "Responsible Officer": "ALAN L. GERACI",
@@ -15234,17 +14948,6 @@
       "Form Period Ending Date": "2014-05-17",
       "Beginning Balance": 60,
       "Current Balance": 60
-    },
-    {
-      "SOS Assigned Filer ID Number": "1427877",
-      "Filer Name": "GIBBS CONSULTING; TIM",
-      "Responsible Officer": "TIMOTHY GIBBS",
-      "Filer Type": "FIRM",
-      "Form Number": "F625",
-      "Form Period Beginning Date": "2024-04-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 50,
-      "Current Balance": 50
     },
     {
       "SOS Assigned Filer ID Number": "496265",
@@ -15498,17 +15201,6 @@
       "Form Period Ending Date": "2015-05-16",
       "Beginning Balance": 420,
       "Current Balance": 420
-    },
-    {
-      "SOS Assigned Filer ID Number": "770923",
-      "Filer Name": "GLENDALE FIREFIGHTERS FOR BETTER GOVERNMENT",
-      "Responsible Officer": "RICHARD BUSH",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2024-02-18",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 50,
-      "Current Balance": 50
     },
     {
       "SOS Assigned Filer ID Number": "C26401",
@@ -15808,17 +15500,6 @@
       "Current Balance": 10
     },
     {
-      "SOS Assigned Filer ID Number": "1467099",
-      "Filer Name": "GOLDEN WEST FOOD GROUP",
-      "Responsible Officer": "ERIK LITMANOVICH",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-03-31",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
       "SOS Assigned Filer ID Number": "1350716",
       "Filer Name": "GOLF REALTY FUND  LP",
       "Responsible Officer": "ROBERT O. HILL",
@@ -15850,17 +15531,6 @@
       "Form Period Ending Date": "2022-12-31",
       "Beginning Balance": 130,
       "Current Balance": 130
-    },
-    {
-      "SOS Assigned Filer ID Number": "1469454",
-      "Filer Name": "GOMEZ FOR SENATE DISTRICT 23  2024; BLANCA",
-      "Responsible Officer": "DOLORES ARMSTEAD",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2024-01-21",
-      "Form Period Ending Date": "2024-02-17",
-      "Beginning Balance": 1300,
-      "Current Balance": 1300
     },
     {
       "SOS Assigned Filer ID Number": "1339676",
@@ -16037,6 +15707,17 @@
       "Form Period Ending Date": "2017-03-31",
       "Beginning Balance": 100,
       "Current Balance": 100
+    },
+    {
+      "SOS Assigned Filer ID Number": "499124",
+      "Filer Name": "GRANITEROCK",
+      "Responsible Officer": "JULIE GIANNOTTA",
+      "Filer Type": "MAJOR DONOR/INDEPENDENT EXPENDITURE COMMITTEE",
+      "Form Number": "F461",
+      "Form Period Beginning Date": "2022-01-01",
+      "Form Period Ending Date": "2022-12-31",
+      "Beginning Balance": 4270,
+      "Current Balance": 4270
     },
     {
       "SOS Assigned Filer ID Number": "1424108",
@@ -17183,17 +16864,6 @@
       "Current Balance": 100
     },
     {
-      "SOS Assigned Filer ID Number": "1293979",
-      "Filer Name": "HEISING  MARK",
-      "Responsible Officer": "",
-      "Filer Type": "MAJOR DONOR/INDEPENDENT EXPENDITURE COMMITTEE",
-      "Form Number": "F461",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 20,
-      "Current Balance": 20
-    },
-    {
       "SOS Assigned Filer ID Number": "1339371",
       "Filer Name": "HENDERSON GLOBAL INVESTORS (NORTH AMERICA) INC.",
       "Responsible Officer": "LUKE NERIS",
@@ -17423,6 +17093,17 @@
       "Form Period Ending Date": "2020-01-17",
       "Beginning Balance": 2500,
       "Current Balance": 2500
+    },
+    {
+      "SOS Assigned Filer ID Number": "1455929",
+      "Filer Name": "HOCHMAN  HARRIET",
+      "Responsible Officer": "",
+      "Filer Type": "MAJOR DONOR/INDEPENDENT EXPENDITURE COMMITTEE",
+      "Form Number": "F461",
+      "Form Period Beginning Date": "2022-01-01",
+      "Form Period Ending Date": "2022-12-31",
+      "Beginning Balance": 11650,
+      "Current Balance": 11650
     },
     {
       "SOS Assigned Filer ID Number": "1329454",
@@ -18195,28 +17876,6 @@
       "Current Balance": 920
     },
     {
-      "SOS Assigned Filer ID Number": "1418416",
-      "Filer Name": "INDIAN WELLS VALLEY GROUNDWATER AUTHORITY",
-      "Responsible Officer": "RONALD STRAND",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2023-10-01",
-      "Form Period Ending Date": "2023-12-31",
-      "Beginning Balance": 1490,
-      "Current Balance": 1490
-    },
-    {
-      "SOS Assigned Filer ID Number": "1418416",
-      "Filer Name": "INDIAN WELLS VALLEY GROUNDWATER AUTHORITY",
-      "Responsible Officer": "RONALD STRAND",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2024-04-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 160,
-      "Current Balance": 160
-    },
-    {
       "SOS Assigned Filer ID Number": "1416344",
       "Filer Name": "INFRASTRUCTURE ENGINEERS",
       "Responsible Officer": "CYNTHIA GUERRERO",
@@ -18382,17 +18041,6 @@
       "Current Balance": 50
     },
     {
-      "SOS Assigned Filer ID Number": "1425406",
-      "Filer Name": "INLAND EMPIRE LEAGUE OF ENVIRONMENTAL JUSTICE VOTERS",
-      "Responsible Officer": "CIARA THROWER",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2024-02-17",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 60,
-      "Current Balance": 60
-    },
-    {
       "SOS Assigned Filer ID Number": "1460663",
       "Filer Name": "INNOVATIVE LENDING PLATFORM ASSOCIATION",
       "Responsible Officer": "SCOTT STEWART",
@@ -18532,17 +18180,6 @@
       "Form Number": "F635",
       "Form Period Beginning Date": "2023-10-01",
       "Form Period Ending Date": "2023-12-31",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
-      "SOS Assigned Filer ID Number": "C25441",
-      "Filer Name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS  LOCAL 18",
-      "Responsible Officer": "GUS CORONA",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-03-31",
       "Beginning Balance": 100,
       "Current Balance": 100
     },
@@ -18833,17 +18470,6 @@
       "Current Balance": 10
     },
     {
-      "SOS Assigned Filer ID Number": "1462815",
-      "Filer Name": "JAIN FOR ASSEMBLY 2024",
-      "Responsible Officer": "THOMAS E. MONTGOMERY III",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-01-20",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
       "SOS Assigned Filer ID Number": "1243882",
       "Filer Name": "JAMES D. LINDBURG",
       "Responsible Officer": "",
@@ -18893,7 +18519,7 @@
       "Responsible Officer": "",
       "Filer Type": "LOBBYIST",
       "Form Number": "F615",
-      "Form Period Beginning Date": "2022-10-01",
+      "Form Period Beginning Date": "2023-10-01",
       "Form Period Ending Date": "2023-12-31",
       "Beginning Balance": 100,
       "Current Balance": 100
@@ -18904,7 +18530,7 @@
       "Responsible Officer": "",
       "Filer Type": "LOBBYIST",
       "Form Number": "F615",
-      "Form Period Beginning Date": "2023-10-01",
+      "Form Period Beginning Date": "2022-10-01",
       "Form Period Ending Date": "2023-12-31",
       "Beginning Balance": 100,
       "Current Balance": 100
@@ -19834,17 +19460,6 @@
       "Current Balance": 100
     },
     {
-      "SOS Assigned Filer ID Number": "1460879",
-      "Filer Name": "JULIA KWAMYA",
-      "Responsible Officer": "",
-      "Filer Type": "LOBBYIST",
-      "Form Number": "F615",
-      "Form Period Beginning Date": "2024-04-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
       "SOS Assigned Filer ID Number": "1345695",
       "Filer Name": "JULIANA D. HASTINGS",
       "Responsible Officer": "",
@@ -19865,17 +19480,6 @@
       "Form Period Ending Date": "2022-09-30",
       "Beginning Balance": 780,
       "Current Balance": 780
-    },
-    {
-      "SOS Assigned Filer ID Number": "1463564",
-      "Filer Name": "JUZA FOR ASSEMBLY 2024",
-      "Responsible Officer": "MAX COSTON",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2024-01-21",
-      "Form Period Ending Date": "2024-02-17",
-      "Beginning Balance": 1720,
-      "Current Balance": 860
     },
     {
       "SOS Assigned Filer ID Number": "1335723",
@@ -19988,6 +19592,17 @@
       "Current Balance": 100
     },
     {
+      "SOS Assigned Filer ID Number": "1441527",
+      "Filer Name": "KEITH BEWICK",
+      "Responsible Officer": "",
+      "Filer Type": "LOBBYIST",
+      "Form Number": "F615",
+      "Form Period Beginning Date": "2023-10-01",
+      "Form Period Ending Date": "2023-12-31",
+      "Beginning Balance": 100,
+      "Current Balance": 100
+    },
+    {
       "SOS Assigned Filer ID Number": "1333174",
       "Filer Name": "KELLY  ROBERT J.",
       "Responsible Officer": "",
@@ -20094,6 +19709,17 @@
       "Form Number": "F615",
       "Form Period Beginning Date": "2018-04-01",
       "Form Period Ending Date": "2018-06-30",
+      "Beginning Balance": 100,
+      "Current Balance": 100
+    },
+    {
+      "SOS Assigned Filer ID Number": "1367396",
+      "Filer Name": "KEVIN C. TROMMER",
+      "Responsible Officer": "",
+      "Filer Type": "LOBBYIST",
+      "Form Number": "F615",
+      "Form Period Beginning Date": "2022-10-01",
+      "Form Period Ending Date": "2022-12-31",
       "Beginning Balance": 100,
       "Current Balance": 100
     },
@@ -20307,17 +19933,6 @@
       "Current Balance": 100
     },
     {
-      "SOS Assigned Filer ID Number": "1471178",
-      "Filer Name": "KRANING; MATT",
-      "Responsible Officer": "",
-      "Filer Type": "MAJOR DONOR/INDEPENDENT EXPENDITURE COMMITTEE",
-      "Form Number": "F461",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 20,
-      "Current Balance": 20
-    },
-    {
       "SOS Assigned Filer ID Number": "1401891",
       "Filer Name": "KREEP 2018; CITIZENS TO RE-ELECT SUPERIOR COURT JUDGE GARY",
       "Responsible Officer": "RANDY GOODWIN",
@@ -20446,6 +20061,17 @@
       "Form Number": "F615",
       "Form Period Beginning Date": "2014-10-01",
       "Form Period Ending Date": "2014-12-31",
+      "Beginning Balance": 100,
+      "Current Balance": 100
+    },
+    {
+      "SOS Assigned Filer ID Number": "1338613",
+      "Filer Name": "LA SALLE INVESTMENT MANAGEMENT  INC. INCLUDING LA SALLE INVESTMENT MANAGEMENT DISTRIBUTORS  LLC",
+      "Responsible Officer": "GORDON G. REPP",
+      "Filer Type": "EMPLOYER",
+      "Form Number": "F635",
+      "Form Period Beginning Date": "2024-01-01",
+      "Form Period Ending Date": "2024-03-31",
       "Beginning Balance": 100,
       "Current Balance": 100
     },
@@ -20868,17 +20494,6 @@
       "Current Balance": 100
     },
     {
-      "SOS Assigned Filer ID Number": "1393290",
-      "Filer Name": "LAW FOUNDATION OF SILICON VALLEY",
-      "Responsible Officer": "ALISON BRUNNER",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2024-04-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
       "SOS Assigned Filer ID Number": "1444790",
       "Filer Name": "LAWLER FOR CALIFORNIA ASSEMBLY 2022; LIZ",
       "Responsible Officer": "BRYAN BURCH",
@@ -20976,17 +20591,6 @@
       "Form Period Ending Date": "2022-12-31",
       "Beginning Balance": 900,
       "Current Balance": 900
-    },
-    {
-      "SOS Assigned Filer ID Number": "F24744",
-      "Filer Name": "LEGISLATIVE ADVOCACY GROUP",
-      "Responsible Officer": "FRANCISCO LEAL",
-      "Filer Type": "FIRM",
-      "Form Number": "F625",
-      "Form Period Beginning Date": "2024-04-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 60,
-      "Current Balance": 60
     },
     {
       "SOS Assigned Filer ID Number": "1368870",
@@ -21473,17 +21077,6 @@
       "Current Balance": 20
     },
     {
-      "SOS Assigned Filer ID Number": "1342433",
-      "Filer Name": "LIBERTY UTILITIES",
-      "Responsible Officer": "STEVEN DELLIGATTI",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2024-04-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 60,
-      "Current Balance": 60
-    },
-    {
       "SOS Assigned Filer ID Number": "1336679",
       "Filer Name": "LIBITZKY  MOSES",
       "Responsible Officer": "",
@@ -21625,17 +21218,6 @@
       "Form Period Ending Date": "2024-02-22",
       "Beginning Balance": 600,
       "Current Balance": 600
-    },
-    {
-      "SOS Assigned Filer ID Number": "1460136",
-      "Filer Name": "LIVE NATION ENTERTAINMENT  INC.",
-      "Responsible Officer": "JAS SAJJAN",
-      "Filer Type": "MAJOR DONOR/INDEPENDENT EXPENDITURE COMMITTEE",
-      "Form Number": "F461",
-      "Form Period Beginning Date": "2024-04-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 50,
-      "Current Balance": 50
     },
     {
       "SOS Assigned Filer ID Number": "1277391",
@@ -22661,17 +22243,6 @@
       "Current Balance": 100
     },
     {
-      "SOS Assigned Filer ID Number": "1353088",
-      "Filer Name": "MA  STEVEN",
-      "Responsible Officer": "",
-      "Filer Type": "MAJOR DONOR/INDEPENDENT EXPENDITURE COMMITTEE",
-      "Form Number": "F461",
-      "Form Period Beginning Date": "2023-12-13",
-      "Form Period Ending Date": "2023-12-14",
-      "Beginning Balance": 1450,
-      "Current Balance": 1450
-    },
-    {
       "SOS Assigned Filer ID Number": "1383747",
       "Filer Name": "MACARENO FOR STATE ASSEMBLY 2016; RUBEN",
       "Responsible Officer": "RUBEN MACARENO",
@@ -22934,6 +22505,28 @@
       "Form Period Ending Date": "2019-09-30",
       "Beginning Balance": 100,
       "Current Balance": 100
+    },
+    {
+      "SOS Assigned Filer ID Number": "1456116",
+      "Filer Name": "MARCH AND ASH  INC.",
+      "Responsible Officer": "BRETON PEACE",
+      "Filer Type": "MAJOR DONOR/INDEPENDENT EXPENDITURE COMMITTEE",
+      "Form Number": "F461",
+      "Form Period Beginning Date": "2023-01-01",
+      "Form Period Ending Date": "2023-12-31",
+      "Beginning Balance": 4260,
+      "Current Balance": 4260
+    },
+    {
+      "SOS Assigned Filer ID Number": "1456116",
+      "Filer Name": "MARCH AND ASH  INC.",
+      "Responsible Officer": "BRETON PEACE",
+      "Filer Type": "MAJOR DONOR/INDEPENDENT EXPENDITURE COMMITTEE",
+      "Form Number": "F461",
+      "Form Period Beginning Date": "2023-01-01",
+      "Form Period Ending Date": "2023-12-31",
+      "Beginning Balance": 4260,
+      "Current Balance": 4260
     },
     {
       "SOS Assigned Filer ID Number": "1317742",
@@ -23242,39 +22835,6 @@
       "Form Period Ending Date": "2016-12-31",
       "Beginning Balance": 100,
       "Current Balance": 100
-    },
-    {
-      "SOS Assigned Filer ID Number": "1460614",
-      "Filer Name": "MATTAMMAL FOR ASSEMBLY 2024; GUS",
-      "Responsible Officer": "ELISA MAASSEN JOHNSON",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-01-20",
-      "Beginning Balance": 2040,
-      "Current Balance": 2040
-    },
-    {
-      "SOS Assigned Filer ID Number": "1460614",
-      "Filer Name": "MATTAMMAL FOR ASSEMBLY 2024; GUS",
-      "Responsible Officer": "ELISA MAASSEN JOHNSON",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2024-01-21",
-      "Form Period Ending Date": "2024-02-17",
-      "Beginning Balance": 1760,
-      "Current Balance": 1760
-    },
-    {
-      "SOS Assigned Filer ID Number": "1460614",
-      "Filer Name": "MATTAMMAL FOR ASSEMBLY 2024; GUS",
-      "Responsible Officer": "ELISA MAASSEN JOHNSON",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2024-02-18",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 20,
-      "Current Balance": 20
     },
     {
       "SOS Assigned Filer ID Number": "1335323",
@@ -23783,6 +23343,28 @@
       "Current Balance": 100
     },
     {
+      "SOS Assigned Filer ID Number": "743530",
+      "Filer Name": "MENDOCINO COUNTY REPUBLICAN CENTRAL COMMITTEE (STATE)",
+      "Responsible Officer": "DONNA ARNOLD",
+      "Filer Type": "RECIPIENT COMMITTEE",
+      "Form Number": "F460",
+      "Form Period Beginning Date": "2014-07-01",
+      "Form Period Ending Date": "2014-12-31",
+      "Beginning Balance": 450,
+      "Current Balance": 450
+    },
+    {
+      "SOS Assigned Filer ID Number": "743530",
+      "Filer Name": "MENDOCINO COUNTY REPUBLICAN CENTRAL COMMITTEE (STATE)",
+      "Responsible Officer": "DONNA ARNOLD",
+      "Filer Type": "RECIPIENT COMMITTEE",
+      "Form Number": "F460",
+      "Form Period Beginning Date": "2017-01-01",
+      "Form Period Ending Date": "2017-06-30",
+      "Beginning Balance": 180,
+      "Current Balance": 180
+    },
+    {
       "SOS Assigned Filer ID Number": "1303884",
       "Filer Name": "MERCED COUNTY DEMOCRATIC CENTRAL COMMITTEE",
       "Responsible Officer": "DIANA WESTMORELAND",
@@ -23836,94 +23418,6 @@
       "Form Period Ending Date": "2023-06-30",
       "Beginning Balance": 70,
       "Current Balance": 70
-    },
-    {
-      "SOS Assigned Filer ID Number": "1403976",
-      "Filer Name": "MEXICAN AMERICAN LADIES SOCIETY",
-      "Responsible Officer": "KRYSTAL HERNANDEZ",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2020-01-01",
-      "Form Period Ending Date": "2020-06-30",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
-      "SOS Assigned Filer ID Number": "1403976",
-      "Filer Name": "MEXICAN AMERICAN LADIES SOCIETY",
-      "Responsible Officer": "KRYSTAL HERNANDEZ",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2020-07-01",
-      "Form Period Ending Date": "2020-12-31",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
-      "SOS Assigned Filer ID Number": "1403976",
-      "Filer Name": "MEXICAN AMERICAN LADIES SOCIETY",
-      "Responsible Officer": "KRYSTAL HERNANDEZ",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2021-01-01",
-      "Form Period Ending Date": "2021-06-30",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
-      "SOS Assigned Filer ID Number": "1403976",
-      "Filer Name": "MEXICAN AMERICAN LADIES SOCIETY",
-      "Responsible Officer": "KRYSTAL HERNANDEZ",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2021-07-01",
-      "Form Period Ending Date": "2021-12-31",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
-      "SOS Assigned Filer ID Number": "1403976",
-      "Filer Name": "MEXICAN AMERICAN LADIES SOCIETY",
-      "Responsible Officer": "KRYSTAL HERNANDEZ",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2022-01-01",
-      "Form Period Ending Date": "2022-06-30",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
-      "SOS Assigned Filer ID Number": "1403976",
-      "Filer Name": "MEXICAN AMERICAN LADIES SOCIETY",
-      "Responsible Officer": "KRYSTAL HERNANDEZ",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2022-07-01",
-      "Form Period Ending Date": "2022-12-31",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
-      "SOS Assigned Filer ID Number": "1403976",
-      "Filer Name": "MEXICAN AMERICAN LADIES SOCIETY",
-      "Responsible Officer": "KRYSTAL HERNANDEZ",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2023-01-01",
-      "Form Period Ending Date": "2023-06-30",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
-      "SOS Assigned Filer ID Number": "1403976",
-      "Filer Name": "MEXICAN AMERICAN LADIES SOCIETY",
-      "Responsible Officer": "KRYSTAL HERNANDEZ",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2023-07-01",
-      "Form Period Ending Date": "2023-12-31",
-      "Beginning Balance": 100,
-      "Current Balance": 100
     },
     {
       "SOS Assigned Filer ID Number": "1327286",
@@ -24619,6 +24113,17 @@
       "Current Balance": 70
     },
     {
+      "SOS Assigned Filer ID Number": "1448655",
+      "Filer Name": "MOLINA  JOHN",
+      "Responsible Officer": "",
+      "Filer Type": "MAJOR DONOR/INDEPENDENT EXPENDITURE COMMITTEE",
+      "Form Number": "F497",
+      "Form Period Beginning Date": "2024-03-05",
+      "Form Period Ending Date": "2024-03-05",
+      "Beginning Balance": 350,
+      "Current Balance": 350
+    },
+    {
       "SOS Assigned Filer ID Number": "1370311",
       "Filer Name": "MONEDA USA INC.",
       "Responsible Officer": "TOMAS GONZALEZ",
@@ -24683,17 +24188,6 @@
       "Form Period Ending Date": "2023-12-30",
       "Beginning Balance": 40,
       "Current Balance": 40
-    },
-    {
-      "SOS Assigned Filer ID Number": "1467873",
-      "Filer Name": "MONTEREY BAY ECONOMIC PARTNERSHIP",
-      "Responsible Officer": "TAHRA GORAYA",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2024-04-01",
-      "Form Period Ending Date": "2024-06-01",
-      "Beginning Balance": 150,
-      "Current Balance": 150
     },
     {
       "SOS Assigned Filer ID Number": "841975",
@@ -24993,83 +24487,6 @@
       "Current Balance": 1500
     },
     {
-      "SOS Assigned Filer ID Number": "1424226",
-      "Filer Name": "MUSLIM DEMOCRATIC CLUB OF SOUTHERN CALIFORNIA",
-      "Responsible Officer": "DANIEL JUAREZ",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2019-01-01",
-      "Form Period Ending Date": "2019-12-31",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
-      "SOS Assigned Filer ID Number": "1424226",
-      "Filer Name": "MUSLIM DEMOCRATIC CLUB OF SOUTHERN CALIFORNIA",
-      "Responsible Officer": "DANIEL JUAREZ",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2020-07-01",
-      "Form Period Ending Date": "2020-12-31",
-      "Beginning Balance": 760,
-      "Current Balance": 760
-    },
-    {
-      "SOS Assigned Filer ID Number": "1424226",
-      "Filer Name": "MUSLIM DEMOCRATIC CLUB OF SOUTHERN CALIFORNIA",
-      "Responsible Officer": "DANIEL JUAREZ",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2021-01-01",
-      "Form Period Ending Date": "2021-06-30",
-      "Beginning Balance": 2100,
-      "Current Balance": 2100
-    },
-    {
-      "SOS Assigned Filer ID Number": "1424226",
-      "Filer Name": "MUSLIM DEMOCRATIC CLUB OF SOUTHERN CALIFORNIA",
-      "Responsible Officer": "DANIEL JUAREZ",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2021-07-01",
-      "Form Period Ending Date": "2021-12-31",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
-      "SOS Assigned Filer ID Number": "1424226",
-      "Filer Name": "MUSLIM DEMOCRATIC CLUB OF SOUTHERN CALIFORNIA",
-      "Responsible Officer": "DANIEL JUAREZ",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2022-01-01",
-      "Form Period Ending Date": "2022-06-30",
-      "Beginning Balance": 950,
-      "Current Balance": 950
-    },
-    {
-      "SOS Assigned Filer ID Number": "1424226",
-      "Filer Name": "MUSLIM DEMOCRATIC CLUB OF SOUTHERN CALIFORNIA",
-      "Responsible Officer": "DANIEL JUAREZ",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2022-07-01",
-      "Form Period Ending Date": "2022-12-31",
-      "Beginning Balance": 911,
-      "Current Balance": 911
-    },
-    {
-      "SOS Assigned Filer ID Number": "1424226",
-      "Filer Name": "MUSLIM DEMOCRATIC CLUB OF SOUTHERN CALIFORNIA",
-      "Responsible Officer": "DANIEL JUAREZ",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2023-01-01",
-      "Form Period Ending Date": "2023-06-30",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
       "SOS Assigned Filer ID Number": "1297314",
       "Filer Name": "MV TRANSPORTATION",
       "Responsible Officer": "TED NAVITSKAS",
@@ -25319,7 +24736,7 @@
       "Form Number": "F401",
       "Form Period Beginning Date": "2006-01-01",
       "Form Period Ending Date": "2006-03-17",
-      "Beginning Balance": 2500,
+      "Beginning Balance": 2440,
       "Current Balance": 250
     },
     {
@@ -25330,18 +24747,7 @@
       "Form Number": "F401",
       "Form Period Beginning Date": "2006-01-01",
       "Form Period Ending Date": "2006-03-17",
-      "Beginning Balance": 2440,
-      "Current Balance": 250
-    },
-    {
-      "SOS Assigned Filer ID Number": "1285736",
-      "Filer Name": "NATIONAL GUARD ASSOCIATION OF CALIFORNIA - PAC VOTER GUIDE",
-      "Responsible Officer": "BRIAN PARK",
-      "Filer Type": "SLATE MAILER ORGANIZATIONS",
-      "Form Number": "F401",
-      "Form Period Beginning Date": "2006-03-18",
-      "Form Period Ending Date": "2006-05-20",
-      "Beginning Balance": 1880,
+      "Beginning Balance": 2500,
       "Current Balance": 250
     },
     {
@@ -25353,6 +24759,17 @@
       "Form Period Beginning Date": "2006-03-18",
       "Form Period Ending Date": "2006-05-20",
       "Beginning Balance": 1800,
+      "Current Balance": 250
+    },
+    {
+      "SOS Assigned Filer ID Number": "1285736",
+      "Filer Name": "NATIONAL GUARD ASSOCIATION OF CALIFORNIA - PAC VOTER GUIDE",
+      "Responsible Officer": "BRIAN PARK",
+      "Filer Type": "SLATE MAILER ORGANIZATIONS",
+      "Form Number": "F401",
+      "Form Period Beginning Date": "2006-03-18",
+      "Form Period Ending Date": "2006-05-20",
+      "Beginning Balance": 1880,
       "Current Balance": 250
     },
     {
@@ -25385,7 +24802,7 @@
       "Form Number": "F401",
       "Form Period Beginning Date": "2006-07-01",
       "Form Period Ending Date": "2006-09-30",
-      "Beginning Balance": 550,
+      "Beginning Balance": 470,
       "Current Balance": 250
     },
     {
@@ -25396,18 +24813,7 @@
       "Form Number": "F401",
       "Form Period Beginning Date": "2006-07-01",
       "Form Period Ending Date": "2006-09-30",
-      "Beginning Balance": 470,
-      "Current Balance": 250
-    },
-    {
-      "SOS Assigned Filer ID Number": "1285736",
-      "Filer Name": "NATIONAL GUARD ASSOCIATION OF CALIFORNIA - PAC VOTER GUIDE",
-      "Responsible Officer": "BRIAN PARK",
-      "Filer Type": "SLATE MAILER ORGANIZATIONS",
-      "Form Number": "F401",
-      "Form Period Beginning Date": "2006-10-01",
-      "Form Period Ending Date": "2006-10-21",
-      "Beginning Balance": 260,
+      "Beginning Balance": 550,
       "Current Balance": 250
     },
     {
@@ -25427,9 +24833,9 @@
       "Responsible Officer": "BRIAN PARK",
       "Filer Type": "SLATE MAILER ORGANIZATIONS",
       "Form Number": "F401",
-      "Form Period Beginning Date": "2006-10-22",
-      "Form Period Ending Date": "2006-12-31",
-      "Beginning Balance": 420,
+      "Form Period Beginning Date": "2006-10-01",
+      "Form Period Ending Date": "2006-10-21",
+      "Beginning Balance": 260,
       "Current Balance": 250
     },
     {
@@ -25441,6 +24847,17 @@
       "Form Period Beginning Date": "2006-10-22",
       "Form Period Ending Date": "2006-12-31",
       "Beginning Balance": 410,
+      "Current Balance": 250
+    },
+    {
+      "SOS Assigned Filer ID Number": "1285736",
+      "Filer Name": "NATIONAL GUARD ASSOCIATION OF CALIFORNIA - PAC VOTER GUIDE",
+      "Responsible Officer": "BRIAN PARK",
+      "Filer Type": "SLATE MAILER ORGANIZATIONS",
+      "Form Number": "F401",
+      "Form Period Beginning Date": "2006-10-22",
+      "Form Period Ending Date": "2006-12-31",
+      "Beginning Balance": 420,
       "Current Balance": 250
     },
     {
@@ -26830,6 +26247,17 @@
       "Current Balance": 120
     },
     {
+      "SOS Assigned Filer ID Number": "1353459",
+      "Filer Name": "PAC+",
+      "Responsible Officer": "LISA LE",
+      "Filer Type": "RECIPIENT COMMITTEE",
+      "Form Number": "F425",
+      "Form Period Beginning Date": "2023-01-01",
+      "Form Period Ending Date": "2023-06-30",
+      "Beginning Balance": 30,
+      "Current Balance": 30
+    },
+    {
       "SOS Assigned Filer ID Number": "1443511",
       "Filer Name": "PACHECO FOR ASSEMBLY 2022; BLANCA",
       "Responsible Officer": "GARY CRUMMITT",
@@ -27094,28 +26522,6 @@
       "Current Balance": 680
     },
     {
-      "SOS Assigned Filer ID Number": "1462314",
-      "Filer Name": "PANDA RESTAURANT GROUP  INC.",
-      "Responsible Officer": "MONTE BAIER",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2023-10-01",
-      "Form Period Ending Date": "2023-12-31",
-      "Beginning Balance": 1880,
-      "Current Balance": 1880
-    },
-    {
-      "SOS Assigned Filer ID Number": "1462314",
-      "Filer Name": "PANDA RESTAURANT GROUP  INC.",
-      "Responsible Officer": "MONTE BAIER",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-03-31",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
       "SOS Assigned Filer ID Number": "483196",
       "Filer Name": "PARAMOUNT GLOBAL AND AFFILIATES",
       "Responsible Officer": "JASON D KAUNE",
@@ -27270,17 +26676,6 @@
       "Current Balance": 100
     },
     {
-      "SOS Assigned Filer ID Number": "1271728",
-      "Filer Name": "PASKENTA BAND OF NOMLAKI INDIANS",
-      "Responsible Officer": "DAMON SAFRANEK",
-      "Filer Type": "MAJOR DONOR/INDEPENDENT EXPENDITURE COMMITTEE",
-      "Form Number": "F461",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 80,
-      "Current Balance": 80
-    },
-    {
       "SOS Assigned Filer ID Number": "1361983",
       "Filer Name": "PATINO FOR ASSEMBLY 2014",
       "Responsible Officer": "RAYMOND L. GONZALES JR.",
@@ -27389,17 +26784,6 @@
       "Form Period Ending Date": "2019-09-30",
       "Beginning Balance": 1250,
       "Current Balance": 1250
-    },
-    {
-      "SOS Assigned Filer ID Number": "744181",
-      "Filer Name": "PEACE & FREEDOM PARTY STATE CENTRAL COMMITTEE",
-      "Responsible Officer": "KEVIN AKIN",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 100,
-      "Current Balance": 100
     },
     {
       "SOS Assigned Filer ID Number": "1263640",
@@ -28095,6 +27479,17 @@
       "Current Balance": 290
     },
     {
+      "SOS Assigned Filer ID Number": "1425699",
+      "Filer Name": "PHANTOM FIREWORKS WESTERN REGION  LLC",
+      "Responsible Officer": "DANIAL PEART",
+      "Filer Type": "CLIENT",
+      "Form Number": "F635",
+      "Form Period Beginning Date": "2023-07-01",
+      "Form Period Ending Date": "2023-09-30",
+      "Beginning Balance": 2330,
+      "Current Balance": 2330
+    },
+    {
       "SOS Assigned Filer ID Number": "1455101",
       "Filer Name": "PHARMACEUTICAL CARE MANUFACTURERS ASSN (PCMA)",
       "Responsible Officer": "LAURA ANN STEPHEN",
@@ -28722,6 +28117,17 @@
       "Current Balance": 3580
     },
     {
+      "SOS Assigned Filer ID Number": "1282058",
+      "Filer Name": "PROGRESSIVE DEMOCRATS OF THE SANTA MONICA MOUNTAINS",
+      "Responsible Officer": "WENDY GLADWIN",
+      "Filer Type": "RECIPIENT COMMITTEE",
+      "Form Number": "F460",
+      "Form Period Beginning Date": "2023-01-01",
+      "Form Period Ending Date": "2023-06-30",
+      "Beginning Balance": 167,
+      "Current Balance": 167
+    },
+    {
       "SOS Assigned Filer ID Number": "1291809",
       "Filer Name": "PROGRESSIVE MAJORITY",
       "Responsible Officer": "GLORIA TOTTEN",
@@ -29026,28 +28432,6 @@
       "Form Number": "F635",
       "Form Period Beginning Date": "2021-01-01",
       "Form Period Ending Date": "2021-03-31",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
-      "SOS Assigned Filer ID Number": "1470738",
-      "Filer Name": "QUARANTA  NINA",
-      "Responsible Officer": "",
-      "Filer Type": "MAJOR DONOR/INDEPENDENT EXPENDITURE COMMITTEE",
-      "Form Number": "F461",
-      "Form Period Beginning Date": "2023-07-01",
-      "Form Period Ending Date": "2023-12-31",
-      "Beginning Balance": 1480,
-      "Current Balance": 1480
-    },
-    {
-      "SOS Assigned Filer ID Number": "1460619",
-      "Filer Name": "QUAVERED",
-      "Responsible Officer": "AE JOHNSON",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2024-04-01",
-      "Form Period Ending Date": "2024-06-30",
       "Beginning Balance": 100,
       "Current Balance": 100
     },
@@ -29536,17 +28920,6 @@
       "Current Balance": 270
     },
     {
-      "SOS Assigned Filer ID Number": "1394229",
-      "Filer Name": "RENEW FINANCIAL",
-      "Responsible Officer": "MARY KATHRYN LYNCH",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-03-31",
-      "Beginning Balance": 780,
-      "Current Balance": 780
-    },
-    {
       "SOS Assigned Filer ID Number": "1402592",
       "Filer Name": "RENTERIA FOR GOVERNOR 2018",
       "Responsible Officer": "GARY CRUMMITT",
@@ -29658,7 +29031,7 @@
     },
     {
       "SOS Assigned Filer ID Number": "741949",
-      "Filer Name": "REPUBLICAN PARTY OF SAN DIEGO COUNTY",
+      "Filer Name": "REPUBLICAN PARTY OF SAN DIEGO COUNTY - STATE ACCOUNT",
       "Responsible Officer": "ELIZABETH SPILLANE",
       "Filer Type": "RECIPIENT COMMITTEE",
       "Form Number": "F460",
@@ -29666,6 +29039,17 @@
       "Form Period Ending Date": "2023-06-30",
       "Beginning Balance": 1720,
       "Current Balance": 1146
+    },
+    {
+      "SOS Assigned Filer ID Number": "741949",
+      "Filer Name": "REPUBLICAN PARTY OF SAN DIEGO COUNTY - STATE ACCOUNT",
+      "Responsible Officer": "ELIZABETH SPILLANE",
+      "Filer Type": "RECIPIENT COMMITTEE",
+      "Form Number": "F497",
+      "Form Period Beginning Date": "2024-01-09",
+      "Form Period Ending Date": "2024-01-09",
+      "Beginning Balance": 290,
+      "Current Balance": 290
     },
     {
       "SOS Assigned Filer ID Number": "870367",
@@ -30185,17 +29569,6 @@
       "Current Balance": 70
     },
     {
-      "SOS Assigned Filer ID Number": "1460153",
-      "Filer Name": "RIVER PARTNERS",
-      "Responsible Officer": "JULIE RENTNER",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2023-07-01",
-      "Form Period Ending Date": "2023-09-30",
-      "Beginning Balance": 2600,
-      "Current Balance": 2600
-    },
-    {
       "SOS Assigned Filer ID Number": "1230609",
       "Filer Name": "RIVERSIDE CALIFORNIA REPUBLICAN ASSEMBLY",
       "Responsible Officer": "JOSEPH THOMAS LUDWIG",
@@ -30465,10 +29838,21 @@
       "Responsible Officer": "ERIC RODRIGUEZ",
       "Filer Type": "RECIPIENT COMMITTEE",
       "Form Number": "F460",
+      "Form Period Beginning Date": "2024-01-01",
+      "Form Period Ending Date": "2024-01-20",
+      "Beginning Balance": 551,
+      "Current Balance": 275
+    },
+    {
+      "SOS Assigned Filer ID Number": "1461749",
+      "Filer Name": "RODRIGUEZ FOR STATE ASSEMBLY 2024; COMMITTEE TO ELECT ERIC",
+      "Responsible Officer": "ERIC RODRIGUEZ",
+      "Filer Type": "RECIPIENT COMMITTEE",
+      "Form Number": "F460",
       "Form Period Beginning Date": "2024-01-21",
       "Form Period Ending Date": "2024-02-17",
       "Beginning Balance": 600,
-      "Current Balance": 25
+      "Current Balance": 300
     },
     {
       "SOS Assigned Filer ID Number": "1344658",
@@ -30768,17 +30152,6 @@
       "Current Balance": 30
     },
     {
-      "SOS Assigned Filer ID Number": "1453175",
-      "Filer Name": "RUSENKO JR.  J. DAVID",
-      "Responsible Officer": "",
-      "Filer Type": "MAJOR DONOR/INDEPENDENT EXPENDITURE COMMITTEE",
-      "Form Number": "F461",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 190,
-      "Current Balance": 190
-    },
-    {
       "SOS Assigned Filer ID Number": "1314308",
       "Filer Name": "RUSKIN FOR SENATE 2012  IRA",
       "Responsible Officer": "RITA COPELAND",
@@ -31073,7 +30446,7 @@
       "Form Period Beginning Date": "2020-01-01",
       "Form Period Ending Date": "2020-06-30",
       "Beginning Balance": 694,
-      "Current Balance": 500
+      "Current Balance": 600
     },
     {
       "SOS Assigned Filer ID Number": "1373741",
@@ -31144,7 +30517,7 @@
     {
       "SOS Assigned Filer ID Number": "742417",
       "Filer Name": "SAN BENITO COUNTY DEMOCRATIC CENTRAL COMMITTEE",
-      "Responsible Officer": "DENISE LEWIS",
+      "Responsible Officer": "CLARK STONE",
       "Filer Type": "RECIPIENT COMMITTEE",
       "Form Number": "F460",
       "Form Period Beginning Date": "2022-01-01",
@@ -31516,17 +30889,6 @@
       "Current Balance": 620
     },
     {
-      "SOS Assigned Filer ID Number": "742270",
-      "Filer Name": "SAN JOAQUIN COUNTY REPUBLICAN CC (STATE)",
-      "Responsible Officer": "RICH SILVERMAN",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-01-20",
-      "Beginning Balance": 1670,
-      "Current Balance": 1670
-    },
-    {
       "SOS Assigned Filer ID Number": "1346033",
       "Filer Name": "SAN JOAQUIN DELTA COLLEGE TEACHER'S ASSOCIATION POLITICAL ACTION COMMITTEE",
       "Responsible Officer": "STEVE SCHERMERHORN",
@@ -31859,7 +31221,7 @@
     {
       "SOS Assigned Filer ID Number": "742537",
       "Filer Name": "SANTA BARBARA COUNTY REPUBLICAN PARTY (STATE ACCOUNT)",
-      "Responsible Officer": "JULIE BISCHOFF",
+      "Responsible Officer": "DARWIN RINGLING",
       "Filer Type": "RECIPIENT COMMITTEE",
       "Form Number": "F497",
       "Form Period Beginning Date": "2024-01-26",
@@ -31899,6 +31261,17 @@
       "Form Period Ending Date": "2021-12-21",
       "Beginning Balance": 50,
       "Current Balance": 50
+    },
+    {
+      "SOS Assigned Filer ID Number": "741925",
+      "Filer Name": "SANTA CLARA COUNTY REPUBLICAN PARTY",
+      "Responsible Officer": "ALEXANDER D. GLEW",
+      "Filer Type": "RECIPIENT COMMITTEE",
+      "Form Number": "F497",
+      "Form Period Beginning Date": "2024-03-08",
+      "Form Period Ending Date": "2024-03-08",
+      "Beginning Balance": 240,
+      "Current Balance": 240
     },
     {
       "SOS Assigned Filer ID Number": "831404",
@@ -33045,17 +32418,6 @@
       "Current Balance": 1130
     },
     {
-      "SOS Assigned Filer ID Number": "841600",
-      "Filer Name": "SIGN  DISPLAY & ALLIED CRAFTS  LOCAL 510 PAC",
-      "Responsible Officer": "CHRISTOPHER WREN",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 20,
-      "Current Balance": 20
-    },
-    {
       "SOS Assigned Filer ID Number": "1403794",
       "Filer Name": "SIGNATURE HEALTHCARE SERVICES  LLC",
       "Responsible Officer": "LAURA SANDERS  ESQ.",
@@ -33793,6 +33155,17 @@
       "Current Balance": 10
     },
     {
+      "SOS Assigned Filer ID Number": "486190",
+      "Filer Name": "SOUTHERN CALIFORNIA PERMANENTE MEDICAL GROUP",
+      "Responsible Officer": "DIANA SHIBA",
+      "Filer Type": "MAJOR DONOR/INDEPENDENT EXPENDITURE COMMITTEE",
+      "Form Number": "F461",
+      "Form Period Beginning Date": "2022-01-01",
+      "Form Period Ending Date": "2022-12-31",
+      "Beginning Balance": 5050,
+      "Current Balance": 5050
+    },
+    {
       "SOS Assigned Filer ID Number": "1392301",
       "Filer Name": "SOUTHWEST STRATEGIES LLC AND AFFILIATED ENTITIES",
       "Responsible Officer": "JAMES SUTTON",
@@ -33951,33 +33324,11 @@
       "Filer Name": "SREEKRISHNAN FOR ASSEMBLY 2024; TARA",
       "Responsible Officer": "STACY OWENS",
       "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-01-20",
-      "Beginning Balance": 1870,
-      "Current Balance": 1870
-    },
-    {
-      "SOS Assigned Filer ID Number": "1464784",
-      "Filer Name": "SREEKRISHNAN FOR ASSEMBLY 2024; TARA",
-      "Responsible Officer": "STACY OWENS",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2024-01-21",
-      "Form Period Ending Date": "2024-02-17",
-      "Beginning Balance": 1590,
-      "Current Balance": 1590
-    },
-    {
-      "SOS Assigned Filer ID Number": "1464784",
-      "Filer Name": "SREEKRISHNAN FOR ASSEMBLY 2024; TARA",
-      "Responsible Officer": "STACY OWENS",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2023-07-01",
-      "Form Period Ending Date": "2024-12-31",
-      "Beginning Balance": 1810,
-      "Current Balance": 1810
+      "Form Number": "F497",
+      "Form Period Beginning Date": "2024-05-29",
+      "Form Period Ending Date": "2024-05-29",
+      "Beginning Balance": 620,
+      "Current Balance": 310
     },
     {
       "SOS Assigned Filer ID Number": "1415548",
@@ -34033,28 +33384,6 @@
       "Form Period Ending Date": "2024-03-31",
       "Beginning Balance": 230,
       "Current Balance": 230
-    },
-    {
-      "SOS Assigned Filer ID Number": "1293912",
-      "Filer Name": "STANFORD HEALTH CARE",
-      "Responsible Officer": "JAMES MARTIN",
-      "Filer Type": "MAJOR DONOR/INDEPENDENT EXPENDITURE COMMITTEE",
-      "Form Number": "F461",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 130,
-      "Current Balance": 130
-    },
-    {
-      "SOS Assigned Filer ID Number": "1293912",
-      "Filer Name": "STANFORD HEALTH CARE",
-      "Responsible Officer": "JAMES MARTIN",
-      "Filer Type": "MAJOR DONOR/INDEPENDENT EXPENDITURE COMMITTEE",
-      "Form Number": "F461",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 130,
-      "Current Balance": 130
     },
     {
       "SOS Assigned Filer ID Number": "741618",
@@ -34134,17 +33463,6 @@
       "Current Balance": 100
     },
     {
-      "SOS Assigned Filer ID Number": "1461711",
-      "Filer Name": "STEPHEN PANG",
-      "Responsible Officer": "",
-      "Filer Type": "LOBBYIST",
-      "Form Number": "F615",
-      "Form Period Beginning Date": "2024-04-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 50,
-      "Current Balance": 50
-    },
-    {
       "SOS Assigned Filer ID Number": "1323109",
       "Filer Name": "STEPHENS FOR STATE SENATE 2010  GREG",
       "Responsible Officer": "GREG STEPHENS",
@@ -34154,28 +33472,6 @@
       "Form Period Ending Date": "2010-05-22",
       "Beginning Balance": 50,
       "Current Balance": 50
-    },
-    {
-      "SOS Assigned Filer ID Number": "1472225",
-      "Filer Name": "STERNBERG  SCOTT AND AFFILIATES",
-      "Responsible Officer": "SCOTT STERNBERG",
-      "Filer Type": "MAJOR DONOR/INDEPENDENT EXPENDITURE COMMITTEE",
-      "Form Number": "F461",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 20,
-      "Current Balance": 20
-    },
-    {
-      "SOS Assigned Filer ID Number": "1340711",
-      "Filer Name": "STEVEN MOEN",
-      "Responsible Officer": "",
-      "Filer Type": "LOBBYIST",
-      "Form Number": "F615",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-03-31",
-      "Beginning Balance": 100,
-      "Current Balance": 100
     },
     {
       "SOS Assigned Filer ID Number": "1378568",
@@ -35168,6 +34464,50 @@
       "Current Balance": 10
     },
     {
+      "SOS Assigned Filer ID Number": "1456640",
+      "Filer Name": "TERAWATT",
+      "Responsible Officer": "ANTHONY HARRISON",
+      "Filer Type": "CLIENT",
+      "Form Number": "F635",
+      "Form Period Beginning Date": "2023-01-01",
+      "Form Period Ending Date": "2023-03-31",
+      "Beginning Balance": 100,
+      "Current Balance": 100
+    },
+    {
+      "SOS Assigned Filer ID Number": "1456640",
+      "Filer Name": "TERAWATT",
+      "Responsible Officer": "ANTHONY HARRISON",
+      "Filer Type": "CLIENT",
+      "Form Number": "F635",
+      "Form Period Beginning Date": "2023-04-01",
+      "Form Period Ending Date": "2023-06-30",
+      "Beginning Balance": 2730,
+      "Current Balance": 2730
+    },
+    {
+      "SOS Assigned Filer ID Number": "1456640",
+      "Filer Name": "TERAWATT",
+      "Responsible Officer": "ANTHONY HARRISON",
+      "Filer Type": "CLIENT",
+      "Form Number": "F635",
+      "Form Period Beginning Date": "2023-07-01",
+      "Form Period Ending Date": "2023-09-30",
+      "Beginning Balance": 1810,
+      "Current Balance": 1810
+    },
+    {
+      "SOS Assigned Filer ID Number": "1456640",
+      "Filer Name": "TERAWATT",
+      "Responsible Officer": "ANTHONY HARRISON",
+      "Filer Type": "CLIENT",
+      "Form Number": "F635",
+      "Form Period Beginning Date": "2023-10-01",
+      "Form Period Ending Date": "2023-12-31",
+      "Beginning Balance": 100,
+      "Current Balance": 100
+    },
+    {
       "SOS Assigned Filer ID Number": "1347840",
       "Filer Name": "TERESA R. ANDERSON",
       "Responsible Officer": "",
@@ -35210,17 +34550,6 @@
       "Form Period Ending Date": "2022-09-30",
       "Beginning Balance": 460,
       "Current Balance": 460
-    },
-    {
-      "SOS Assigned Filer ID Number": "1456247",
-      "Filer Name": "TERRAMONT INFRASTRUCTURE PARTNERS",
-      "Responsible Officer": "MICHAEL LEHMAN",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-03-31",
-      "Beginning Balance": 100,
-      "Current Balance": 100
     },
     {
       "SOS Assigned Filer ID Number": "1447192",
@@ -35586,6 +34915,17 @@
       "Current Balance": 1260
     },
     {
+      "SOS Assigned Filer ID Number": "1454782",
+      "Filer Name": "TRAVIS  MARK",
+      "Responsible Officer": "",
+      "Filer Type": "MAJOR DONOR/INDEPENDENT EXPENDITURE COMMITTEE",
+      "Form Number": "F461",
+      "Form Period Beginning Date": "2022-10-01",
+      "Form Period Ending Date": "2022-12-31",
+      "Beginning Balance": 4230,
+      "Current Balance": 4230
+    },
+    {
       "SOS Assigned Filer ID Number": "1413640",
       "Filer Name": "TREBOR PROPERTIES",
       "Responsible Officer": "NICHOLAS L. SANDERS",
@@ -35762,17 +35102,6 @@
       "Current Balance": 3280
     },
     {
-      "SOS Assigned Filer ID Number": "1375867",
-      "Filer Name": "TULARE COUNTY POLITICAL ACTION COMMITTEE \"TCPAC\"",
-      "Responsible Officer": "TOM CHAMBERLIN",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2024-01-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
       "SOS Assigned Filer ID Number": "742005",
       "Filer Name": "TULARE COUNTY REPUBLICAN CENTRAL COMMITTEE (STATE ACCT.)",
       "Responsible Officer": "CRYSTAL RAGAN",
@@ -35793,39 +35122,6 @@
       "Form Period Ending Date": "2020-04-25",
       "Beginning Balance": 420,
       "Current Balance": 420
-    },
-    {
-      "SOS Assigned Filer ID Number": "C27711",
-      "Filer Name": "TULE RIVER TRIBE",
-      "Responsible Officer": "NEIL PAYRON",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2022-01-01",
-      "Form Period Ending Date": "2022-03-31",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
-      "SOS Assigned Filer ID Number": "C27711",
-      "Filer Name": "TULE RIVER TRIBE",
-      "Responsible Officer": "NEIL PAYRON",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2022-07-01",
-      "Form Period Ending Date": "2022-09-30",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
-      "SOS Assigned Filer ID Number": "C27711",
-      "Filer Name": "TULE RIVER TRIBE",
-      "Responsible Officer": "NEIL PAYRON",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2022-10-01",
-      "Form Period Ending Date": "2022-12-31",
-      "Beginning Balance": 100,
-      "Current Balance": 100
     },
     {
       "SOS Assigned Filer ID Number": "962971",
@@ -36110,6 +35406,17 @@
       "Form Number": "F635",
       "Form Period Beginning Date": "2014-10-01",
       "Form Period Ending Date": "2014-12-31",
+      "Beginning Balance": 100,
+      "Current Balance": 100
+    },
+    {
+      "SOS Assigned Filer ID Number": "1420631",
+      "Filer Name": "TYLER RINDE",
+      "Responsible Officer": "",
+      "Filer Type": "LOBBYIST",
+      "Form Number": "F615",
+      "Form Period Beginning Date": "2021-07-01",
+      "Form Period Ending Date": "2021-09-30",
       "Beginning Balance": 100,
       "Current Balance": 100
     },
@@ -36620,17 +35927,6 @@
       "Current Balance": 1850
     },
     {
-      "SOS Assigned Filer ID Number": "1247232",
-      "Filer Name": "VELLUTINI CORPORATION DBA ROYAL ELECTRIC COMPANY",
-      "Responsible Officer": "DINA KIMBLE",
-      "Filer Type": "MAJOR DONOR/INDEPENDENT EXPENDITURE COMMITTEE",
-      "Form Number": "F461",
-      "Form Period Beginning Date": "2023-07-01",
-      "Form Period Ending Date": "2023-12-31",
-      "Beginning Balance": 1830,
-      "Current Balance": 1830
-    },
-    {
       "SOS Assigned Filer ID Number": "742080",
       "Filer Name": "VENTURA COUNTY REPUBLICAN PARTY",
       "Responsible Officer": "JOHN ABSMEIER",
@@ -36928,17 +36224,6 @@
       "Current Balance": 30
     },
     {
-      "SOS Assigned Filer ID Number": "1456041",
-      "Filer Name": "VISION Y COMPROMISO",
-      "Responsible Officer": "MARIA LEMUS",
-      "Filer Type": "CLIENT",
-      "Form Number": "F635",
-      "Form Period Beginning Date": "2024-04-01",
-      "Form Period Ending Date": "2024-06-30",
-      "Beginning Balance": 210,
-      "Current Balance": 210
-    },
-    {
       "SOS Assigned Filer ID Number": "1319343",
       "Filer Name": "VLASTA A. HAKES",
       "Responsible Officer": "",
@@ -36946,39 +36231,6 @@
       "Form Number": "F615",
       "Form Period Beginning Date": "2011-04-01",
       "Form Period Ending Date": "2011-06-30",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
-      "SOS Assigned Filer ID Number": "1448376",
-      "Filer Name": "VOLECK TAING",
-      "Responsible Officer": "",
-      "Filer Type": "LOBBYIST",
-      "Form Number": "F615",
-      "Form Period Beginning Date": "2022-04-01",
-      "Form Period Ending Date": "2022-06-30",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
-      "SOS Assigned Filer ID Number": "1448376",
-      "Filer Name": "VOLECK TAING",
-      "Responsible Officer": "",
-      "Filer Type": "LOBBYIST",
-      "Form Number": "F615",
-      "Form Period Beginning Date": "2022-07-01",
-      "Form Period Ending Date": "2022-09-30",
-      "Beginning Balance": 100,
-      "Current Balance": 100
-    },
-    {
-      "SOS Assigned Filer ID Number": "1448376",
-      "Filer Name": "VOLECK TAING",
-      "Responsible Officer": "",
-      "Filer Type": "LOBBYIST",
-      "Form Number": "F615",
-      "Form Period Beginning Date": "2022-10-01",
-      "Form Period Ending Date": "2022-12-31",
       "Beginning Balance": 100,
       "Current Balance": 100
     },
@@ -37863,28 +37115,6 @@
       "Current Balance": 1800
     },
     {
-      "SOS Assigned Filer ID Number": "1428025",
-      "Filer Name": "WILLIAMS FOR GOVERNOR 2022; MAJOR",
-      "Responsible Officer": "",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2022-04-24",
-      "Form Period Ending Date": "2022-05-21",
-      "Beginning Balance": 2314,
-      "Current Balance": 2314
-    },
-    {
-      "SOS Assigned Filer ID Number": "1428025",
-      "Filer Name": "WILLIAMS FOR GOVERNOR 2022; MAJOR",
-      "Responsible Officer": "",
-      "Filer Type": "RECIPIENT COMMITTEE",
-      "Form Number": "F460",
-      "Form Period Beginning Date": "2022-05-22",
-      "Form Period Ending Date": "2022-06-30",
-      "Beginning Balance": 2223,
-      "Current Balance": 2223
-    },
-    {
       "SOS Assigned Filer ID Number": "L00522",
       "Filer Name": "WILLIE HAUSEY",
       "Responsible Officer": "",
@@ -38435,5 +37665,5 @@
       "Current Balance": 100
     }
   ],
-  "updatedAt": "2024-11-01"
+  "updatedAt": "2024-09-01"
 }

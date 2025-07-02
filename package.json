@@ -1,5 +1,0 @@
-{
-  "dependencies": {
-    "@jlarky/csv-parse": "npm:@jsr/jlarky__csv-parse@^0.1.2"
-  }
-}

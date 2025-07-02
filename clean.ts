@@ -1,4 +1,4 @@
-import { parse } from "@jlarky/csv-parse";
+import { parse } from "jsr:@jlarky/csv-parse";
 import orderBy from 'https://esm.sh/lodash@4.17.21/orderBy'
 
 type Row = {
