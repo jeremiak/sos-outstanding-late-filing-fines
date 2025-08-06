@@ -1,15 +1,8 @@
 # California Secretary of State Outstanding Fines for Late Filings
 
-**Total outstanding fines:** $2,830,869.30
+**Total outstanding fines:** $2,883,657.91
 
-
-
-
-
-
-
-
-_Last updated on 2024-11-01_
+_Last updated on 2025-08-01_
 
 The California Secretary of State (SoS) publishes an Excel spreadsheet ([on this webpage](https://www.sos.ca.gov/campaign-lobbying/cal-access-resources/outstanding-fines-late-filings)) with data about "late filers with unpaid fines who were sent fine notices from the Secretary of State's office". The office updates the file monthly.
 
